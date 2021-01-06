@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@winning-plugin/win-6.0-httpclient": "^1.0.9",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "element-ui": "^2.8.2",
     "js-cookie": "^2.2.1",
     "qs": "^6.9.4",
